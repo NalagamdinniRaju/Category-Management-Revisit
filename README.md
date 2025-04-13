@@ -16,7 +16,7 @@ A full-stack admin dashboard for managing clothing categories on Revisit — an 
 
 ## 🎥 Demo Video
 
-Watch the full walkthrough:
+🔗 Click the image below to watch the full walkthrough video:
 
 [![Watch the video](https://res.cloudinary.com/dwiq4s5ut/image/upload/v1744569810/Screenshot_877_eg23tt.png)](https://drive.google.com/file/d/1Dn8AiFHs-FplVXak93JpdGIDYHMVYRUb/view?usp=sharing)
 
