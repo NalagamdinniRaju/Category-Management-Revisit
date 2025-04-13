@@ -14,6 +14,8 @@ A full-stack admin dashboard for managing clothing categories on Revisit — an 
 - 📁 File Uploads using Multer
 - 📚 Clean Code Structure with Sidebar UI
 
+  ## 🌐 [Visit Live Site](https://category-management-nrs.vercel.app/)  
+
 ## 🎥 Demo Video
 
 🔗 Click the image below to watch the full walkthrough video:
